@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Coverage directory for Jest
+coverage/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Mac specific files
+.DS_Store
+
+# Log files
+*.log
