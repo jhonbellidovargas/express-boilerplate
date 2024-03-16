@@ -35,8 +35,8 @@ To get a local copy up and running follow these simple steps.
 
 4. Start the server:
 
- ```sh
- npm start
-````
+   ```sh
+    npm start
+   ```
 
 5. Open your browser and navigate to `http://localhost:3000`
