@@ -1,6 +1,6 @@
-# Project Name
+# Node Express Boilerplate
 
-Short description of your project.
+A simple boilerplate for building Node.js applications with Express.js.
 
 ## Prerequisites
 
