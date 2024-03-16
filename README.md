@@ -18,7 +18,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/jhonbellidovargas/express-boilerplate/tree/main
+   git clone https://github.com/jhonbellidovargas/express-boilerplate.git
    ```
 
 2. Install NPM packages:
