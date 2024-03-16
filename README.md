@@ -33,7 +33,6 @@ To get a local copy up and running follow these simple steps.
     PORT=3000
    ```
 
-````
 4. Start the server:
 
  ```sh
